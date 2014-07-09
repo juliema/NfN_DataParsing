@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-#$infile = shift;
+my $inputfile = shift;
 #######################################################
 #   1. skip columms with TRUE in skip 
 #   2. Skip columns with nothing filled in
@@ -22,8 +22,8 @@ my %collectorhash=();
 my @collectorarray =();
 my $numcollectors=0;
 my $numtranscriptions=0;
-open FH, "<MASTER2014-06-15_notes_from_nature_herbarium_classifications.csv";
-#open FH, "<TestData.csv";
+#open FH, "<MASTER2014-06-15_notes_from_nature_herbarium_classifications.csv";
+open FH, "<$inputfile";
 while (<FH>) {
     $linenum++;
     #### finding skipped lines
