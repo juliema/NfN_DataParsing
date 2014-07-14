@@ -17,7 +17,6 @@ my %countryhash=();
 my $numcountries=0;
 my @countryarray=();
 
-#open FH, "<MASTER2014-06-15_notes_from_nature_herbarium_classifications.csv";
 open FH, "<$inputfile";
 while (<FH>) {
     $linenum++;
