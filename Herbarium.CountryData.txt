@@ -1,0 +1,87 @@
+	2487
+United States	155656
+placeholder	1378
+Other	2
+United States of America	98
+Panama	120
+Honduras	40
+Canada	397
+Costa Rica	108
+El Salvador	10
+Mexico	601
+unknown	616
+Afganistan	10
+Colombia	14
+Japan	85
+Peru	142
+Burkina Faso	1
+Brazil	149
+Sweden	10
+Germany	27
+Bahamas	1
+USA	7
+Nicaragua	30
+Armenia	1
+Puerto Rico	16
+Georgia	20
+Sri Lanka	1
+Jamaica	33
+Austria	13
+Lithuania	1
+Spain	1
+United Kingdom	45
+Bolivia	9
+Great Britain	3
+Poland	3
+R.K. Godfrey Herbarium (FSU)	1
+Finland	4
+Dominican Republic	149
+Virgin Islands (Brit)	1
+Yemen	4
+United Arab Erimates	3
+Angola	2
+Virgin Islands (USA)	1
+American Samoa	17
+Belgium	5
+Uraguay	5
+Australia	40
+France	247
+Croatia	4
+Czech Republic	1
+India	2
+Bangladesh	1
+Bahrain	1
+Cuba	1
+Vatican City State	1
+usa	1
+Netherlands	3
+Albania	1
+U.S.A.	2
+Ireland	3
+Somalia	1
+Ukraine	1
+French Southern Ter	1
+Argentina	20
+Taiwan	2
+Paraguay	18
+Kenya	7
+Zaire	6
+Belize	30
+Papua New Guinea	15
+Ecuador	29
+Algeria	2
+Burundi	7
+Cameroon	14
+Senegal	3
+South Africa	13
+Cote DIvoire	3
+Greece	18
+Switzerland	1
+Haiti	2
+Republic of Montenegro	1
+Gabon	1
+Venezuela	2
+Cote D'Ivoire	7
+Iran	2
+Indonesia	2
+Mauritania	8
