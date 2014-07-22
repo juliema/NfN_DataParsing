@@ -5,7 +5,7 @@ To run the scripts on the datasets:
 
 perl program.pl  filename  collection
 
-## getdata.collection.pl  
+### getdata.collection.pl  
 
       1. Number of records in the file and number of skipped or empty records.
       2. Number of unique transcribers and number of transcriptions per transcriber - as a separate file
