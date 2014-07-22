@@ -1,8 +1,2 @@
-Scripts for Parsing NfN Data
+Scripts for Parsing Notes from Nature Data
 ===============
-
-To run the scripts on the datasets:
-
-perl getdata.Calbug.pl  filename  collection
-
-
