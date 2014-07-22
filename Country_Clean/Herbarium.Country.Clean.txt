@@ -1,0 +1,76 @@
+Afghanistan	10
+Albania	1
+Algeria	2
+American Samoa	17
+Angola	2
+Argentina	20
+Armenia	1
+Australia	40
+Austria	13
+Bahamas	1
+Bahrain	1
+Bangladesh	1
+Belgium	5
+Belize	30
+Bolivia	9
+Brazil	149
+British Virgin Islands	1
+Burkina Faso	1
+Burundi	7
+Côte d'Ivoire	10
+Cameroon	14
+Canada	397
+Colombia	14
+Costa Rica	108
+Croatia	4
+Cuba	1
+Czech Republic	1
+Democratic Republic of the Congo	6
+Dominican Republic	149
+Ecuador	29
+El Salvador	10
+Finland	4
+France	247
+Gabon	1
+Georgia	20
+Germany	27
+Greece	18
+Haiti	2
+Honduras	40
+India	2
+Indonesia	2
+Iran	2
+Ireland	3
+Jamaica	33
+Japan	85
+Kenya	7
+Lithuania	1
+Mauritania	8
+Mexico	601
+Montenegro	1
+Netherlands	3
+Nicaragua	30
+Panama	120
+Papua New Guinea	15
+Paraguay	18
+Peru	142
+Poland	3
+Puerto Rico	16
+Senegal	3
+Somalia	1
+South Africa	13
+Spain	1
+Sri Lanka	1
+Sweden	10
+Switzerland	1
+Taiwan	2
+Territoire des Terres australes et antarctiques françaises	1
+U.S. Virgin Islands	1
+Ukraine	1
+United Arab Emirates	3
+United Kingdom	48
+United States	155764
+Uruguay	5
+Vatican City	1
+Venezuela	2
+Yemen	4

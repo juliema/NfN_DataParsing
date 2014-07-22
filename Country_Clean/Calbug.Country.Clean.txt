@@ -1,0 +1,145 @@
+Afghanistan	8
+Algeria	2
+American Samoa	25
+Andorra	1
+Angola	14
+Anguilla	1
+Antigua and Barbuda	1
+Argentina	23
+Aruba	1
+Australia	375
+Austria	4
+Azerbaijan	6
+Bahamas	89
+Bahrain	2
+Bangladesh	7
+Barbados	3
+Belarus	3
+Belgium	3
+Belize	28
+Bermuda	4
+Bolivia	12
+"Bonaire, Sint Eustatius and Saba"	3
+Botswana	1
+Brazil	174
+Burkina Faso	26
+Cambodia	4
+Cameroon	3
+Canada	3409
+Cape Verde	1
+Cayman Islands	11
+Chile	124
+China	110
+Colombia	266
+Congo	7
+Cook Islands	2
+Costa Rica	6616
+Croatia	4
+Cuba	5
+Cyprus	1
+Dominica	2
+Dominican Republic	16
+Ecuador	270
+Egypt	8
+El Salvador	259
+Eritrea	1
+Falkland Islands	1
+Faroe Islands	1
+Fiji	4
+Finland	1
+France	17
+French Guiana	80
+French Polynesia	66
+Gabon	4
+Georgia	2
+Germany	49
+Ghana	58
+Greece	4
+Grenada	1
+Guadeloupe	3
+Guam	5
+Guatemala	212
+Guyana	10
+Haiti	1
+Honduras	739
+Hong Kong	1
+Hungary	6
+Iceland	2
+India	136
+Indonesia	1
+Iran	37
+Ireland	2
+Italy	41
+Jamaica	194
+Japan	8
+Jordan	1
+Kenya	12
+Laos	2
+Lebanon	1
+Liberia	4
+Libya	2
+Lithuania	1
+Macao	1
+Macedonia	2
+Madagascar	16
+Malaysia	4
+Mali	26
+Mauritius	1
+Mexico	35474
+Moldova	1
+Monaco	1
+Morocco	4
+Namibia	1
+Nepal	2
+Netherlands	4
+New Caledonia	10
+New Zealand	1
+Nicaragua	42
+Niger	1
+Nigeria	8
+Norway	1
+Pakistan	6
+Panama	54
+Papua New Guinea	17
+Paraguay	9
+Peru	68
+Philippines	38
+Poland	118
+Portugal	1
+Puerto Rico	13
+Réunion	1
+Russia	5
+Saint Barthélemy	2
+"Saint Helena, Ascension and Tristan da Cunha"	1
+Saint Kitts and Nevis	1
+Senegal	2
+Serbia	1
+Seychelles	2
+Singapore	1
+Solomon Islands	8
+South Africa	13
+South Korea	5
+Spain	38
+Sri Lanka	9
+Sweden	1
+Switzerland	3
+Taiwan	23
+Tanzania	5
+Thailand	26
+Trinidad and Tobago	208
+Tunisia	2
+Turkey	3
+U.S. Virgin Islands	2
+Uganda	2
+Ukraine	1
+United Arab Emirates	5
+United Kingdom	88
+United States	225053
+United States Minor Outlying Islands	2
+Uruguay	9
+Uzbekistan	1
+Vanuatu	2
+Venezuela	1333
+Vietnam	11
+Zambia	13
+Zimbabwe	6

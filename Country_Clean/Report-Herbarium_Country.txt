@@ -1,0 +1,83 @@
+verbatimcountry	count	country	countrycode	error
+Afganistan	10	Afghanistan	AF	VerbatimCountry misspelled.
+Albania	1	Albania	AL	
+Algeria	2	Algeria	DZ	
+American Samoa	17	American Samoa	AS	
+Angola	2	Angola	AO	
+Argentina	20	Argentina	AR	
+Armenia	1	Armenia	AM	
+Australia	40	Australia	AU	
+Austria	13	Austria	AT	
+Bahamas	1	Bahamas	BS	
+Bahrain	1	Bahrain	BH	
+Bangladesh	1	Bangladesh	BD	
+Belgium	5	Belgium	BE	
+Belize	30	Belize	BZ	
+Bolivia	9	Bolivia	BO	
+Brazil	149	Brazil	BR	
+Virgin Islands (Brit)	1	British Virgin Islands	VG	VerbatimCountry not standard.
+Burkina Faso	1	Burkina Faso	BF	
+Burundi	7	Burundi	BI	
+Cote DIvoire	3	Côte d'Ivoire	CI	VerbatimCountry misspelled.
+Cote D'Ivoire	7	Côte d'Ivoire	CI	VerbatimCountry misspelled.
+Cameroon	14	Cameroon	CM	
+Canada	397	Canada	CA	
+Colombia	14	Colombia	CO	
+Costa Rica	108	Costa Rica	CR	
+Croatia	4	Croatia	HR	
+Cuba	1	Cuba	CU	
+Czech Republic	1	Czech Republic	CZ	
+Zaire	6	Democratic Republic of the Congo	CD	VerbatimCountry not antiquated.
+Dominican Republic	149	Dominican Republic	DO	
+Ecuador	29	Ecuador	EC	
+El Salvador	10	El Salvador	SV
+Finland	4	Finland	FI
+France	247	France	FR
+Gabon	1	Gabon	GA
+Georgia	20	Georgia	GE
+Germany	27	Germany	DE
+Greece	18	Greece	GR
+Haiti	2	Haiti	HT
+Honduras	40	Honduras	HN
+India	2	India	IN
+Indonesia	2	Indonesia	ID
+Iran	2	Iran	IR
+Ireland	3	Ireland	IE
+Jamaica	33	Jamaica	JM
+Japan	85	Japan	JP
+Kenya	7	Kenya	KE
+Lithuania	1	Lithuania	LT	
+Mauritania	8	Mauritania	MR	
+Mexico	601	Mexico	MX	
+Republic of Montenegro	1	Montenegro	ME	VerbatimCountry not standard.
+Netherlands	3	Netherlands	NL	
+Nicaragua	30	Nicaragua	NI	
+Panama	120	Panama	PA	
+Papua New Guinea	15	Papua New Guinea	PG	
+Paraguay	18	Paraguay	PY	
+Peru	142	Peru	PE	
+Poland	3	Poland	PL	
+Puerto Rico	16	Puerto Rico	PR	
+Senegal	3	Senegal	SN	
+Somalia	1	Somalia	SO	
+South Africa	13	South Africa	ZA	
+Spain	1	Spain	ES	
+Sri Lanka	1	Sri Lanka	LK	
+Sweden	10	Sweden	SE	
+Switzerland	1	Switzerland	CH	
+Taiwan	2	Taiwan	TW	
+French Southern Ter	1	Territoire des Terres australes et antarctiques françaises	TF	VerbatimCountry not standard.
+Virgin Islands (USA)	1	U.S. Virgin Islands	VI	VerbatimCountry not standard.
+Ukraine	1	Ukraine	UA	
+United Arab Erimates	3	United Arab Emirates	AE	VerbatimCountry misspelled.
+United Kingdom	45	United Kingdom	GB	
+Great Britain	3	United Kingdom	GB	VerbatimCountry not standard.
+United States	155656	United States	US	
+United States of America	98	United States	US	VerbatimCountry not standard.
+USA	7	United States	US	VerbatimCountry not standard.
+usa	1	United States	US	VerbatimCountry not standard.
+U.S.A.	2	United States	US	VerbatimCountry not standard.
+Uraguay	5	Uruguay	UY	VerbatimCountry misspelled.
+Vatican City State	1	Vatican City	VA	VerbatimCountry not standard.
+Venezuela	2	Venezuela	VE	
+Yemen	4	Yemen	YE	

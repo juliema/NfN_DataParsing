@@ -1,0 +1,213 @@
+zxverbatimcountry	count	country	countrycode	error
+Afganistan	7	Afghanistan	AF	VerbatimCountry misspelled.
+Afghanistan	1	Afghanistan	AF	
+Algeria	2	Algeria	DZ	
+American Samoa	24	American Samoa	AS	
+Samoa American	1	American Samoa	AS	VerbatimCountry not standard.
+Andorra	1	Andorra	AD	
+Angola	14	Angola	AO	
+Anguilla	1	Anguilla	AI	
+Antigua & Barbuda	1	Antigua and Barbuda	AG	VerbatimCountry not standard.
+Argentina	23	Argentina	AR	
+Aruba	1	Aruba	AW	
+Australia	375	Australia	AU	
+Austria	4	Austria	AT	
+Azerbaijan	6	Azerbaijan	AZ	
+Bahamas	89	Bahamas	BS	
+Bahrain	2	Bahrain	BH	
+Bangladesh	7	Bangladesh	BD	
+Barbados	3	Barbados	BB	
+Belarus	3	Belarus	BY	
+Belgium	3	Belgium	BE	
+Belize	28	Belize	BZ	
+Bermuda	4	Bermuda	BM	
+Bolivia	12	Bolivia	BO	
+St Eustatius	1	"Bonaire, Sint Eustatius and Saba"	BQ	VerbatimCountry not standard.
+Bonaire	2	"Bonaire, Sint Eustatius and Saba"	BQ	VerbatimCountry not standard.
+Botswana	1	Botswana	BW	
+Brazil	174	Brazil	BR	
+Burkina Faso	26	Burkina Faso	BF	
+Cambodia	4	Cambodia	KH	
+Cameroon	3	Cameroon	CM	
+Canada	3409	Canada	CA	
+Cape Verde	1	Cape Verde	CV	
+Cayman Islands	11	Cayman Islands	KY	
+Chile	124	Chile	CL	
+China	110	China	CN	
+Colombia	266	Colombia	CO	
+Congo	7	Congo	CG	
+Cook Islands	2	Cook Islands	CK	
+Costa Rica	6615	Costa Rica	CR	
+Costa Rica: Cartago Turrialba-grounds of IICA 11-VI-1976 M.Wasbauer Malaise trap 8A-5P	1	Costa Rica	CR	VerbatimCountry contains other geography and more.
+Croatia	4	Croatia	HR	
+Cuba	5	Cuba	CU	
+Cyprus	1	Cyprus	CY	
+Dominica	2	Dominica	DM	
+Dominican Republic	16	Dominican Republic	DO	
+Ecuador	270	Ecuador	EC	
+Egypt	8	Egypt	EG	
+El Salvador	259	El Salvador	SV	
+Eritrea	1	Eritrea	ER	
+Falkland Islands	1	Falkland Islands	FK	
+Faroe Islands	1	Faroe Islands	FO	
+Fiji	4	Fiji	FJ	
+Finland	1	Finland	FI	
+France	17	France	FR	
+French Guiana	80	French Guiana	GF	
+French Polynesia	60	French Polynesia	PF	
+Tahiti	6	French Polynesia	PF	VerbatimCountry not standard.
+Gabon	4	Gabon	GA	
+Georgia	2	Georgia	GE	
+Germany	49	Germany	DE	
+Ghana	58	Ghana	GH	
+Greece	4	Greece	GR	
+Grenada	1	Grenada	GD	
+Guadeloupe	3	Guadeloupe	GP	
+Guam	5	Guam	GU	
+Guatemala	211	Guatemala	GT	
+Esquintla Esquintla Guatemala D.H. Janzen_ Collector	1	Guatemala	GT	VerbatimCountry contains other geography and more.
+Guyana	10	Guyana	GY	
+Haiti	1	Haiti	HT	
+Honduras	739	Honduras	HN	
+Hong Kong	1	Hong Kong	HK	
+Hungary	6	Hungary	HU	
+Iceland	2	Iceland	IS	
+India	136	India	IN	
+Indonesia	1	Indonesia	ID	
+Iran	37	Iran	IR	
+Ireland	2	Ireland	IE	
+Italy	41	Italy	IT	
+Jamaica	194	Jamaica	JM	
+Japan	8	Japan	JP	
+Jordan	1	Jordan	JO	
+Kenya	12	Kenya	KE	
+Laos	2	Laos	LA	
+Lebanon	1	Lebanon	LB	
+Liberia	4	Liberia	LR	
+Libya	2	Libya	LY	
+Lithuania	1	Lithuania	LT	
+Macau	1	Macao	MO	VerbatimCountry not standard.
+Macedonia	2	Macedonia	MK	
+Madagascar	16	Madagascar	MG	
+Malaysia	4	Malaysia	MY	
+Mali	26	Mali	ML	
+Mauritius	1	Mauritius	MU	
+Mexico	35465	Mexico	MX	
+MFX: Chih..Hidalgo DelParrel.	1	Mexico	MX	VerbatimCountry contains other geography.
+Revolution @ mi. SE_ Chis. MEX.   III-23-53	1	Mexico	MX	VerbatimCountry contains other geography and more.
+MEX: Dgo._ El	1	Mexico	MX	VerbatimCountry contains other geography.
+MEX	2	Mexico	MX	VerbatimCountry misspelled.
+MEXICO	1	Mexico	MX	
+Mex:BAja Cal. Sur	1	Mexico	MX	VerbatimCountry contains other geography.
+mexico	1	Mexico	MX	
+Mexico: Tamaulipas	1	Mexico	MX	VerbatimCountry contains other geography.
+Moldova	1	Moldova	MD	
+Monaco	1	Monaco	MC	
+Morocco	4	Morocco	MA	
+Namibia	1	Namibia	NA	
+Nepal	2	Nepal	NP	
+Netherlands	4	Netherlands	NL	
+New Caledonia	10	New Caledonia	NC	
+New Zealand	1	New Zealand	NZ	
+Nicaragua	42	Nicaragua	NI	
+Niger	1	Niger	NE	
+Nigeria	8	Nigeria	NG	
+Norway	1	Norway	NO	
+Pakistan	6	Pakistan	PK	
+Panama	54	Panama	PA	
+Papua New Guinea	17	Papua New Guinea	PG	
+Paraguay	9	Paraguay	PY	
+Peru	68	Peru	PE	
+Phillipines	33	Philippines	PH	VerbatimCountry misspelled.
+Philippines	5	Philippines	PH	
+Poland	118	Poland	PL	
+Portugal	1	Portugal	PT	
+Puerto Rico	13	Puerto Rico	PR	
+Reunion	1	Réunion	RE	VerbatimCountry not standard.
+Russia	5	Russia	RU	
+St Barthelemy	2	Saint Barthélemy	BL	VerbatimCountry not standard.
+St Helena	1	"Saint Helena, Ascension and Tristan da Cunha"	SH	VerbatimCountry not standard.
+Nevis	1	Saint Kitts and Nevis	KN	VerbatimCountry not standard.
+Senegal	2	Senegal	SN	
+Republic of Serbia	1	Serbia	RS	VerbatimCountry not standard.
+Seychelles	2	Seychelles	SC	
+Singapore	1	Singapore	SG	
+Solomon Islands	8	Solomon Islands	SB	
+South Africa	13	South Africa	ZA	
+Korea Sout	2	South Korea	KR	VerbatimCountry misspelled.
+Korea South	3	South Korea	KR	VerbatimCountry not standard.
+Spain	35	Spain	ES	
+Canary Islands	3	Spain	ES	VerbatimCountry contains other geography.
+Sri Lanka	9	Sri Lanka	LK	
+Sweden	1	Sweden	SE	
+Switzerland	3	Switzerland	CH	
+Taiwan	23	Taiwan	TW	
+Tanzania	5	Tanzania	TZ	
+Thailand	26	Thailand	TH	
+Trinidad & Tobago	208	Trinidad and Tobago	TT	VerbatimCountry not standard.
+Tunisia	2	Tunisia	TN	
+Turkey	3	Turkey	TR	
+Virgin Islands (USA)	2	U.S. Virgin Islands	VI	VerbatimCountry not standard.
+Uganda	2	Uganda	UG	
+Ukraine	1	Ukraine	UA	
+United Arab Erimates	5	United Arab Emirates	AE	VerbatimCountry misspelled.
+Great Britain	18	United Kingdom	GB	
+United Kingdom	70	United Kingdom	GB	
+United States	224713	United States	US	
+USA	79	United States	US	VerbatimCountry not standard.
+Usa	1	United States	US	VerbatimCountry not standard.
+Unitred States	1	United States	US	VerbatimCountry misspelled.
+United States of America	196	United States	US	VerbatimCountry not standard.
+UC Berky EMEC 212905 11 mi. W Walcott Richland Co_ N.D. IX-9-1967 J.R.Powers_ Collr.	1	United States	US	VerbatimCountry contains other geography and more.
+Brighton Ut.	1	United States	US	VerbatimCountry contains other geography.
+U.C Berkeley	1	United States	US	VerbatimCountry contains other geography.
+Triniti Sonoma Ca 1 11-26-37	1	United States	US	VerbatimCountry contains other geography and more.
+U.C. Berkeley	1	United States	US	VerbatimCountry contains other geography.
+cal san mateo co	1	United States	US	VerbatimCountry contains other geography.
+TEX._ Karnes Co vic Ecleto 26 Oct. 1992 JE Wappes	1	United States	US	VerbatimCountry contains other geography and more.
+Gonzales County_ TX	1	United States	US	VerbatimCountry contains other geography.
+Mt.Diablo_Cal	1	United States	US	VerbatimCountry contains other geography.
+CAL:Yuba Co. Sierra	1	United States	US	VerbatimCountry contains other geography.
+Hallelujah Jct Lassen County calif VII-13-49	1	United States	US	VerbatimCountry contains other geography and more.
+UC Berkeley	1	United States	US	VerbatimCountry contains other geography.
+Hawaii	14	United States	US	VerbatimCountry contains other geography.
+U.S.	3	United States	US	VerbatimCountry not standard.
+Lincoln_ Lancaster Co._ Nebr	1	United States	US	VerbatimCountry contains other geography.
+US	4	United States	US	VerbatimCountry not standard.
+California	2	United States	US	VerbatimCountry contains other geography.
+Calif: Tagus: tulare Co;. IX-18-1979 EG&JM Linsley	1	United States	US	VerbatimCountry contains other geography.
+China Flat E.dorado Co. Calif. VII-15.48	1	United States	US	VerbatimCountry contains other geography.
+Ca: PLUMAS Co.	1	United States	US	VerbatimCountry contains other geography.
+Oracle Pima Co.	1	United States	US	VerbatimCountry contains other geography.
+Calif: C.Costa Co.	1	United States	US	VerbatimCountry contains other geography.
+United State of America	2	United States	US	VerbatimCountry misspelled.
+Tucson	1	United States	US	VerbatimCountry contains other geography.
+Calif. Vil - 1551	1	United States	US	VerbatimCountry contains other geography.
+CAL: Siskiyou Co.	1	United States	US	VerbatimCountry contains other geography.
+TEXAS L.. Oak Co.	1	United States	US	VerbatimCountry contains other geography.
+NEV: White Pine Co.	1	United States	US	VerbatimCountry contains other geography.
+San Diego Co.	1	United States	US	VerbatimCountry contains other geography.
+Strawberry_ Cal	1	United States	US	VerbatimCountry contains other geography.
+CALIFORNIA: Mendocino County	1	United States	US	VerbatimCountry contains other geography.
+Echo Lake_ CA	1	United States	US	VerbatimCountry contains other geography.
+Strawberry Tuolumne CO Calif. Vil 1551	1	United States	US	VerbatimCountry contains other geography and more.
+Sagehen Crk Nevada Co Cal VI 2674 R D Moon Colr UC BME P 0051243	1	United States	US	VerbatimCountry contains other geography and more.
+Alum Rock Pk. Santa Clara Co. Calif 111.24.49	1	United States	US	VerbatimCountry contains other geography.
+Catalina Mts_ AZ	1	United States	US	VerbatimCountry contains other geography.
+utah_ millard county	1	United States	US	VerbatimCountry contains other geography.
+u c berkeley	1	United States	US	VerbatimCountry contains other geography.
+california	1	United States	US	VerbatimCountry contains other geography.
+united states	1	United States	US	
+usa	1	United States	US	VerbatimCountry not standard.
+Blanco's Corral  White Mountain Mono Co. Calif vi.29.53 El. 10_000ft	1	United States	US	VerbatimCountry contains other geography.
+Midway Islands	1	United States Minor Outlying Islands	UM	VerbatimCountry not standard.
+Wake Island	1	United States Minor Outlying Islands	UM	VerbatimCountry not standard.
+Coll: Ventura Co. 22	1	Unites States	US	VerbatimCountry contains other geography.
+Uraguay	7	Uruguay	UY	VerbatimCountry misspelled.
+Uruguay	2	Uruguay	UY	
+Uzbekistan	1	Uzbekistan	UZ	
+Vanuatu	2	Vanuatu	VU
+Venezuela	1333	Venezuela	VE
+Vietnam	11	Vietnam	VN
+Zambia	13	Zambia	ZM
+Zimbabwe	6	Zimbabwe	ZW

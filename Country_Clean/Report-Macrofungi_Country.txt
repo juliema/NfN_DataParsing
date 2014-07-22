@@ -1,0 +1,106 @@
+verbatimcountry	count	country	countrycode	error
+Algeria	1	Algeria	DZ	
+Samoa American	2	American Samoa	AS	VerbatimCountry not standard.
+Anguilla	1	Anguilla	AI	
+Argentina	27	Argentina	AR	
+Armenia	1	Armenia	AM	
+Australia	40	Australia	AU	
+Austria	22	Austria	AT	
+Belgium	10	Belgium	BE	
+Belize	19	Belize	BZ	
+Bermuda	4	Bermuda	BM	
+Bolivia	10	Bolivia	BO	
+Brazil	136	Brazil	BR	
+British Indian Ocean Ter	1	British Indian Ocean Territory	IO	VerbatimCountry not standard.
+Cote DIvoire	2	Côte d'Ivoire	CI	VerbatimCountry not standard.
+Cameroon	10	Cameroon	CM	
+Canada	3811	Canada	CA
+Chile	2	Chile	CL
+China	114	China	CN
+Colombia	13	Colombia	CO
+Congo	1	Congo	CG
+Cook Islands	10	Cook Islands	CK
+Costa Rica	42	Costa Rica	CR
+Cuba	14	Cuba	CU
+Czech Republic	30	Czech Republic	CZ
+Denmark	5	Denmark	DK
+Dominica	1	Dominica	DM
+Ecuador	10	Ecuador	EC
+El Salvador	3	El Salvador	SV
+Equatorial Guinea	2	Equatorial Guinea	GQ
+Estonia	2	Estonia	EE
+Fiji	20	Fiji	FJ
+Finland	18	Finland	FI	
+France	152	France	FR	
+Tahiti	11	French Polynesia	PF	VerbatimCountry not standard.
+French Polynesia	1	French Polynesia	PF	
+Germany	117	Germany	DE	
+Guam	5	Guam	GU	
+Guatemala	43	Guatemala	GT	
+Guinea	2	Guinea	GN	
+Guyana	1	Guyana	GY	
+Haiti	6	Haiti	HT	
+Honduras	36	Honduras	HN	
+Hong Kong	1	Hong Kong	HK	
+Hungary	4	Hungary	HU	
+Iceland	2	Iceland	IS	
+India	7	India	IN	
+Indonesia	68	Indonesia	ID	
+Ireland	1	Ireland	IE	
+Italy	15	Italy	IT	
+Jamaica	3	Jamaica	JM	
+Japan	13	Japan	JP	
+Kenya	1	Kenya	KE	
+Latvia	9	Latvia	LV	
+Liberia	11	Liberia	LR	
+Malaysia	20	Malaysia	MY	
+Marshall Islands	9	Marshall Islands	MH	
+Mexico	120	Mexico	MX	
+Myanmar	10	Myanmar	MM	
+Netherlands	7	Netherlands	NL	
+New Caledonia	1	New Caledonia	NC	
+New Zealand	4	New Zealand	NZ	
+Nicaragua	4	Nicaragua	NI	
+Korea North	1	North Korea	KP	VerbatimCountry not standard.
+Norway	6	Norway	NO	
+Pakistan	13	Pakistan	PK	
+Palau Island	2	Palau	PW	VerbatimCountry not standard.
+Panama	21	Panama	PA	
+Papua New Guinea	6	Papua New Guinea	PG	
+Paraguay	3	Paraguay	PY	
+Peru	23	Peru	PE	
+Phillipines	209	Philippines	PH	VerbatimCountry misspelled.
+Poland	2	Poland	PL	
+Puerto Rico	40	Puerto Rico	PR	
+Romania	15	Romania	RO	
+Russia	32	Russia	RU	
+St Barthelemy	3	Saint Barthélemy	BL	VerbatimCountry not standard.
+Sierra Leone	2	Sierra Leone	SL	
+Singapore	3	Singapore	SG	
+Slovakia	1	Slovakia	SK	
+Slovenia	1	Slovenia	SI	
+Solomon Islands	2	Solomon Islands	SB	
+South Africa	1	South Africa	ZA	
+Spain	2	Spain	ES	
+Sri Lanka	3	Sri Lanka	LK	
+Swaziland	2	Swaziland	SZ	
+Sweden	210	Sweden	SE	
+Switzerland	26	Switzerland	CH	
+Tanzania	1	Tanzania	TZ	
+Thailand	2	Thailand	TH	
+Tonga	34	Tonga	TO	
+Trinidad & Tobago	18	Trinidad and Tobago	TT	VerbatimCountry not standard.
+Turkmenistan	1	Turkmenistan	TM	
+Uganda	9	Uganda	UG	
+Ukraine	5	Ukraine	UA	
+United Arab Erimates	2	United Arab Emirates	AE	VerbatimCountry misspelled.
+United Kingdom	83	United Kingdom	GB	
+Great Britain	22	United Kingdom	GB	VerbatimCountry not standard.
+United States	26753	United States	US	
+United States of America	1	United States	US	VerbatimCountry not standard.
+Hawaii	2	United States	US	VerbatimCountry contains other geography.
+USA	2	United States	US	VerbatimCountry not standard.
+Uraguay	1	Uruguay	UY	VerbatimCountry misspelled.
+Venezuela	4	Venezuela	VE	
+Zambia	17	Zambia	ZM	
+Zimbabwe	14	Zimbabwe	ZW	
