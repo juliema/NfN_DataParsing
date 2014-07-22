@@ -7,7 +7,6 @@ perl program.pl  filename  collection
 
 ## getdata.collection.pl  
 
-These scripts will calculate a number of datapoints:
       1. Number of records in the file and number of skipped or empty records.
       2. Number of unique transcribers and number of transcriptions per transcriber - as a separate file
       3. Number of countries represented - this is raw and needs to go through the Country data clean up pipeline.
