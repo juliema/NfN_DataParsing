@@ -1,0 +1,11 @@
+NumTranscriptions	NumTranscribers
+1	0
+2	6325
+3	146
+4	2840
+5	123
+6	1725
+7	90
+8	1134
+9	87
+10	1101
