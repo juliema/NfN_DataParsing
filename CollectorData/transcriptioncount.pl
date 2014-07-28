@@ -11,7 +11,7 @@ my $total=0;
 my $totaltranscriptions=0;
 
 
-open FH, "<Master.Transcritber.info.txt";
+open FH, "<Master.Transcriber.info.txt";
 while (<FH>) {
     if (/.*\s+(\d+)/) {
 	my $numtranscriptions=$1;
